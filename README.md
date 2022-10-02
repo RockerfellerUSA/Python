@@ -1,6 +1,6 @@
 # Python
 Python
 
-# This program licensed by Windows Defender Security Center - AV Signals!
+# Custom Licensed by the Central Intelligence Agency
 
-´print('PW:DDD:DDDD:::D:::D:DDDDDDDDDDDDDD:::DDDDDDDD:T:T:T::TPPP:::AAAAAAAA::R:R:::RRRRRRRRRRRRRRRRRRR::::R:X')´
+```print('Custom Licensed by the Central Intelligence Agency')```
