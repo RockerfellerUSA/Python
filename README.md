@@ -1,6 +1,6 @@
 # Python
 Python
 
-# This program prints Hello, world!
+# This program prints Windows Defender Security Center - AV Signals!
 
-´print('Hello, world!')´
+´print('PW:DDD:DDDD:::D:::D:DDDDDDDDDDDDDD:::DDDDDDDD:T:T:T::TPPP:::AAAAAAAA::R:R:::RRRRRRRRRRRRRRRRRRR::::R:X')´
